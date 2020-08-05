@@ -12,9 +12,11 @@ This is a java compiler and java editor.
 
 6. Build / Run
 
-7. You make sure that you can see the java editor.
+7. Run MainActivity
 
-8. you have to click "menu-load-dir-Unzip the SDK files"
+8. You make sure that you can see the java editor.
+
+9. you have to click "menu-load-dir-Unzip the SDK files"
 
 
 
