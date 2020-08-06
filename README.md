@@ -1,6 +1,6 @@
 This is a java compiler and java editor.
 
-1. You download all TextEditorForJava.zip*.
+1. You download TextEditorForJava.zip.
 
 2. Decompress the TextEditorForJava.zip.
 
